@@ -78,7 +78,7 @@ form{
   order: 3;
 }
 
-@media (min-width: 960px) {
+@media (min-width: 768px) {
   nav{flex-direction:row}
   #tables{order: 2;}
   #hyper{order: 1;}
